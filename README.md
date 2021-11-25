@@ -1,0 +1,4 @@
+## Instalación
+
+Correr
+`npm install`
